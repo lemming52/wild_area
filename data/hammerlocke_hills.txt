@@ -1,0 +1,51 @@
+{{catch/entry8|037|Vulpix|no|yes|Random|Grass|28-30|sun=40%|type1=Fire}}
+{{catch/entry8|051|Dugtrio|yes|yes|Random|Grass|28-30|sandstorm=40%|type1=Ground}}
+{{catch/entry8|058|Growlithe|yes|no|Random|Grass|28-30|sun=40%|type1=Fire}}
+{{catch/entry8|067|Machoke|yes|yes|Random|Grass|28-30|cloudy=25%|type1=Fighting}}
+{{catch/entry8|220|Swinub|yes|yes|Random|Grass|28-30|snow=40%|type1=Ice|type2=Ground}}
+{{catch/entry8|225|Delibird|yes|yes|Random|Grass|28-30|snow=15%|type1=Ice|type2=Flying}}
+{{catch/entry8|279|Pelipper|yes|yes|Random|Grass|28-30|rain=40%|type1=Water|type2=Flying}}
+{{catch/entry8|343|Baltoy|yes|yes|Random|Grass|28-30|sun=25%|type1=Ground|type2=Psychic}}
+{{catch/entry8|361|Snorunt|yes|yes|Random|Grass|28-30|blizzard=40%|type1=Ice}}
+{{catch/entry8|529|Drilbur|yes|yes|Random|Grass|28-30|sandstorm=15%|type1=Ground}}
+{{catch/entry8|557|Dwebble|yes|yes|Random|Grass|28-30|sandstorm=25%|type1=Bug|type2=Rock}}
+{{catch/entry8|582|Vanillite|yes|yes|Random|Grass|28-30|blizzard=25%|type1=Ice}}
+{{catch/entry8|588|Karrablast|no|yes|Random|Grass|28-30|rain=5%|type1=Bug}}
+{{catch/entry8|588|Karrablast|yes|no|Random|Grass|28-30|rain=30%|thunderstorm=15%|type1=Bug}}
+{{catch/entry8|599|Klink|yes|yes|Random|Grass|28-30|10%|type1=Steel}}
+{{catch/entry8|616|Shelmet|no|yes|Random|Grass|28-30|rain=30%|thunderstorm=15%|type1=Bug}}
+{{catch/entry8|616|Shelmet|yes|no|Random|Grass|28-30|rain=5%|type1=Bug}}
+{{catch/entry8|677|Espurr|yes|yes|Random|Grass|28-30|clear=40%|cloudy=10%|thunderstorm=10%|snow=10%|sun=10%|sandstorm=10%|fog=40%|type1=Psychic}}
+{{catch/entry8|679|Honedge|yes|yes|Random|Grass|28-30|blizzard=15%|type1=Steel|type2=Ghost}}
+{{catch/entry8|686|Inkay|yes|yes|Random|Grass|28-30|clear=25%|cloudy=35%|rain=15%|snow=25%|blizzard=10%|sun=15%|fog=15%|type1=Dark|type2=Psychic}}
+{{catch/entry8|701|Hawlucha|yes|yes|Random|Grass|28-30|cloudy=5%|type1=Fighting|type2=Flying}}
+{{catch/entry8|737|Charjabug|yes|yes|Random|Grass|28-30|thunderstorm=25%|type1=Bug|type2=Electric}}
+{{catch/entry8|822|Corvisquire|yes|yes|Random|Grass|28-30|clear=15%|type1=Flying}}
+{{catch/entry8|828|Thievul|yes|yes|Random|Grass|28-30|cloudy=15%|type1=Dark}}
+{{catch/entry8|832|Dubwool|yes|yes|Random|Grass|28-30|clear=10%|type1=Normal}}
+{{catch/entry8|848|Toxel|yes|yes|Random|Grass|28-30|thunderstorm=40%|type1=Electric|type2=Poison}}
+{{catch/entry8|856|Hatenna|yes|yes|Random|Grass|28-30|fog=25%|type1=Psychic}}
+{{catch/entry8|859|Impidimp|yes|yes|Random|Grass|28-30|fog=10%|type1=Dark|type2=Fairy}}
+{{catch/entry8|420|Cherubi|yes|yes|Random|Berry tree|28-30|25%|type1=Grass}}
+{{catch/entry8|820|Greedent|yes|yes|Random|Berry tree|28-30|75%|type1=Normal}}
+{{catch/entry8|067|Machoke|yes|yes|Symbol|Grass|29-31|clear=5%|cloudy=15%|rain=15%|thunderstorm=5%|blizzard=5%|sun=10%|sandstorm=34%|type1=Fighting}}
+{{catch/entry8|092|Gastly|yes|yes|Symbol|Grass|29-31|fog=10%|type1=Ghost|type2=Poison}}
+{{catch/entry8|185|Sudowoodo|yes|yes|Symbol|Grass|29-31|clear=10%|sun=40%|sandstorm=40%|type1=Rock}}
+{{catch/entry8|202|Wobbuffet|yes|yes|Symbol|Grass|29-31|clear=45%|cloudy=29%|rain=29%|thunderstorm=24%|snow=5%|blizzard=10%|sun=5%|sandstorm=13%|type1=Psychic}}
+{{catch/entry8|215|Sneasel|yes|yes|Symbol|Grass|29-31|snow=10%|blizzard=40%|type1=Dark|type2=Ice}}
+{{catch/entry8|328|Trapinch|no|yes|Symbol|Grass|29-31|sandstorm=2%|type1=Ground}}
+{{catch/entry8|361|Snorunt|yes|yes|Symbol|Grass|29-31|snow=34%|blizzard=34%|type1=Ice}}
+{{catch/entry8|536|Palpitoad|yes|yes|Symbol|Grass|29-31|rain=45%|type1=Water|type2=Ground}}
+{{catch/entry8|556|Maractus|yes|yes|Symbol|Grass|29-31|sun=34%|type1=Grass}}
+{{catch/entry8|610|Axew|yes|no|Symbol|Grass|29-31|sandstorm=2%|type1=Dragon}}
+{{catch/entry8|613|Cubchoo|yes|yes|Symbol|Grass|29-31|snow=40%|type1=Ice}}
+{{catch/entry8|679|Honedge|yes|yes|Symbol|Grass|29-31|fog=44%|type1=Steel|type2=Ghost}}
+{{catch/entry8|710|Pumpkaboo|yes|yes|Symbol|Grass|29-31|clear=5%|cloudy=5%|rain=5%|thunderstorm=20%|snow=5%|blizzard=5%|sun=5%|sandstorm=5%|fog=5%|type1=Ghost|type2=Grass|form=Average Size}}
+{{catch/entry8|710|Pumpkaboo|yes|yes|Symbol|Grass|29-31|clear=3%|cloudy=3%|rain=3%|thunderstorm=10%|snow=3%|blizzard=3%|sun=3%|sandstorm=3%|fog=3%|type1=Ghost|type2=Grass|form=Small Size}}
+{{catch/entry8|710|Pumpkaboo|yes|yes|Symbol|Grass|29-31|clear=2%|cloudy=2%|rain=2%|thunderstorm=5%|snow=2%|blizzard=2%|sun=2%|sandstorm=2%|fog=2%|type1=Ghost|type2=Grass|form=Large Size}}
+{{catch/entry8|710|Pumpkaboo|yes|yes|Symbol|Grass|29-31|1%|type1=Ghost|type2=Grass|form=Super Size}}
+{{catch/entry8|755|Morelull|yes|yes|Symbol|Grass|29-31|fog=35%|type1=Grass|type2=Fairy}}
+{{catch/entry8|759|Stufful|yes|yes|Symbol|Grass|29-31|clear=29%|cloudy=45%|type1=Normal|type2=Fighting}}
+{{catch/entry8|767|Wimpod|yes|yes|Symbol|Grass|29-31|thunderstorm=35%|type1=Bug|type2=Water}}
+{{catch/entry8|521|Unfezant|yes|yes|Symbol|Flying|36-39|60%|type1=Normal|type2=Flying}}
+{{catch/entry8|822|Corvisquire|yes|yes|Symbol|Flying|36-39|40%|type1=Flying}}

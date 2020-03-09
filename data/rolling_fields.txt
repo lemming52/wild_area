@@ -1,0 +1,90 @@
+{{catch/entry8|011|Metapod|yes|no|Random|Grass|7-9|clear=5%|cloudy=5%|rain=5%|thunderstorm=5%|fog=5%|type1=Bug}}
+{{catch/entry8|011|Metapod|no|yes|Random|Grass|7-10|cloudy=5%|rain=5%|thunderstorm=5%|fog=5%|type1=Bug}}
+{{catch/entry8|037|Vulpix|yes|no|Random|Grass|7-9|sun=20%|type1=Fire}}
+{{catch/entry8|043|Oddish|yes|no|Random|Grass|7-9|cloudy=40%|type1=Grass|type2=Poison}}
+{{catch/entry8|043|Oddish|no|yes|Random|Grass|7-10|cloudy=40%|type1=Grass|type2=Poison}}
+{{catch/entry8|058|Growlithe|no|yes|Random|Grass|7-10|sun=20%|type1=Fire}}
+{{catch/entry8|177|Natu|yes|no|Random|Grass|7-9|fog=35%|type1=Psychic|type2=Flying}}
+{{catch/entry8|177|Natu|no|yes|Random|Grass|7-10|fog=35%|type1=Psychic|type2=Flying}}
+{{catch/entry8|220|Swinub|yes|no|Random|Grass|7-9|snow=35%|blizzard=40%|type1=Ice|type2=Ground}}
+{{catch/entry8|220|Swinub|no|yes|Random|Grass|7-10|snow=35%|blizzard=40%|type1=Ice|type2=Ground}}
+{{catch/entry8|225|Delibird|yes|no|Random|Grass|7-9|blizzard=35%|type1=Ice|type2=Flying}}
+{{catch/entry8|225|Delibird|no|yes|Random|Grass|7-10|blizzard=35%|type1=Ice|type2=Flying}}
+{{catch/entry8|270|Lotad|no|yes|Random|Grass|7-10|rain=40%|type1=Water|type2=Grass}}
+{{catch/entry8|274|Nuzleaf|yes|no|Random|Grass|7-9|rain=40%|type1=Grass|type2=Dark}}
+{{catch/entry8|278|Wingull|yes|no|Random|Grass|7-9|rain=35%|type1=Water|type2=Flying}}
+{{catch/entry8|278|Wingull|no|yes|Random|Grass|7-10|rain=35%|type1=Water|type2=Flying}}
+{{catch/entry8|309|Electrike|yes|no|Random|Grass|7-9|thunderstorm=35%|type1=Electric}}
+{{catch/entry8|309|Electrike|no|yes|Random|Grass|7-10|thunderstorm=35%|type1=Electric}}
+{{catch/entry8|343|Baltoy|yes|no|Random|Grass|7-9|sun=40%|sandstorm=35%|type1=Ground|type2=Psychic}}
+{{catch/entry8|343|Baltoy|no|yes|Random|Grass|7-10|sun=40%|sandstorm=35%|type1=Ground|type2=Psychic}}
+{{catch/entry8|361|Snorunt|yes|no|Random|Grass|7-9|blizzard=20%|type1=Ice}}
+{{catch/entry8|361|Snorunt|no|yes|Random|Grass|7-10|blizzard=20%|type1=Ice}}
+{{catch/entry8|406|Budew|yes|no|Random|Grass|7-9|cloudy=35%|type1=Grass|type2=Poison}}
+{{catch/entry8|406|Budew|no|yes|Random|Grass|7-10|cloudy=35%|type1=Grass|type2=Poison}}
+{{catch/entry8|517|Munna|yes|no|Random|Grass|7-9|fog=40%|type1=Psychic}}
+{{catch/entry8|517|Munna|no|yes|Random|Grass|7-10|fog=40%|type1=Psychic}}
+{{catch/entry8|557|Dwebble|yes|no|Random|Grass|7-9|sandstorm=40%|type1=Bug|type2=Rock}}
+{{catch/entry8|557|Dwebble|no|yes|Random|Grass|7-10|sandstorm=40%|type1=Bug|type2=Rock}}
+{{catch/entry8|572|Minccino|yes|no|Random|Grass|7-9|clear=35%|snow=5%|type1=Normal}}
+{{catch/entry8|572|Minccino|no|yes|Random|Grass|7-10|clear=40%|snow=5%|type1=Normal}}
+{{catch/entry8|582|Vanillite|yes|no|Random|Grass|7-9|snow=40%|type1=Ice}}
+{{catch/entry8|582|Vanillite|no|yes|Random|Grass|7-10|snow=40%|type1=Ice}}
+{{catch/entry8|595|Joltik|yes|no|Random|Grass|7-9|thunderstorm=40%|type1=Bug|type2=Electric}}
+{{catch/entry8|595|Joltik|no|yes|Random|Grass|7-10|thunderstorm=40%|type1=Bug|type2=Electric}}
+{{catch/entry8|622|Golett|yes|no|Random|Grass|7-9|sandstorm=20%|type1=Ground|type2=Ghost}}
+{{catch/entry8|622|Golett|no|yes|Random|Grass|7-10|sandstorm=20%|type1=Ground|type2=Ghost}}
+{{catch/entry8|659|Bunnelby|yes|no|Random|Grass|7-9|clear=40%|cloudy=20%|rain=20%|thunderstorm=20%|snow=20%|blizzard=5%|sun=5%|sandstorm=5%|fog=20%|type1=Normal}}
+{{catch/entry8|659|Bunnelby|no|yes|Random|Grass|7-10|clear=40%|cloudy=20%|rain=20%|thunderstorm=20%|snow=20%|blizzard=5%|sun=5%|sandstorm=5%|fog=20%|type1=Normal}}
+{{catch/entry8|749|Mudbray|yes|no|Random|Grass|7-9|sun=35%|type1=Ground}}
+{{catch/entry8|749|Mudbray|no|yes|Random|Grass|7-10|sun=35%|type1=Ground}}
+{{catch/entry8|761|Bounsweet|yes|no|Random|Grass|7-9|clear=20%|type1=Grass}}
+{{catch/entry8|761|Bounsweet|no|yes|Random|Grass|7-10|clear=20%|type1=Grass}}
+{{catch/entry8|420|Cherubi|yes|yes|Random|Berry tree|7-10|20%|type1=Grass}}
+{{catch/entry8|819|Skwovet|yes|yes|Random|Berry tree|7-10|80%|type1=Normal}}
+{{catch/entry8|011|Metapod|yes|yes|Symbol|Grass|7-10|10%|type1=Bug}}
+{{catch/entry8|037|Vulpix|yes|no|Symbol|Grass|7-10|sun=60%|type1=Fire}}
+{{catch/entry8|058|Growlithe|no|yes|Symbol|Grass|7-10|sun=60%|type1=Fire}}
+{{catch/entry8|225|Delibird|yes|yes|Symbol|Grass|7-10|blizzard=60%|type1=Ice|type2=Flying}}
+{{catch/entry8|236|Tyrogue|yes|yes|Symbol|Grass|7-10|clear=5%|cloudy=28%|rain=5%|thunderstorm=5%|snow=5%|blizzard=5%|sun=5%|sandstorm=5%|fog=5%|type1=Fighting}}
+{{catch/entry8|278|Wingull|yes|yes|Symbol|Grass|7-10|rain=60%|thunderstorm=25%|type1=Water|type2=Flying}}
+{{catch/entry8|280|Ralts|yes|yes|Symbol|Grass|7-10|cloudy=2%|fog=60%|type1=Psychic|type2=Fairy}}
+{{catch/entry8|309|Electrike|yes|yes|Symbol|Grass|7-10|thunderstorm=60%|type1=Electric}}
+{{catch/entry8|343|Baltoy|yes|yes|Symbol|Grass|7-10|sandstorm=60%|type1=Ground|type2=Psychic}}
+{{catch/entry8|415|Combee|yes|yes|Symbol|Grass|7-10|clear=60%|type1=Bug|type2=Flying}}
+{{catch/entry8|582|Vanillite|yes|yes|Symbol|Grass|7-10|snow=60%|blizzard=25%|type1=Ice}}
+{{catch/entry8|659|Bunnelby|yes|yes|Symbol|Grass|7-10|clear=25%|cloudy=60%|rain=25%|snow=25%|sun=25%|sandstorm=25%|fog=25%|type1=Normal}}
+{{catch/entry8|011|Metapod|yes|yes|Symbol|Western Grass|7-10|10%|type1=Bug}}
+{{catch/entry8|037|Vulpix|yes|no|Symbol|Western Grass|7-10|sun=25%|type1=Fire}}
+{{catch/entry8|058|Growlithe|no|yes|Symbol|Western Grass|7-10|sun=25%|type1=Fire}}
+{{catch/entry8|236|Tyrogue|yes|yes|Symbol|Western Grass|7-10|clear=5%|cloudy=28%|rain=5%|thunderstorm=5%|snow=5%|blizzard=5%|sun=5%|sandstorm=5%|fog=5%|type1=Fighting}}
+{{catch/entry8|278|Wingull|yes|yes|Symbol|Western Grass|7-10|rain=25%|type1=Water|type2=Flying}}
+{{catch/entry8|280|Ralts|yes|yes|Symbol|Western Grass|7-10|cloudy=2%|fog=25%|type1=Psychic|type2=Fairy}}
+{{catch/entry8|309|Electrike|yes|yes|Symbol|Western Grass|7-10|thunderstorm=25%|type1=Electric}}
+{{catch/entry8|343|Baltoy|yes|yes|Symbol|Western Grass|7-10|sandstorm=25%|type1=Ground|type2=Psychic}}
+{{catch/entry8|415|Combee|yes|yes|Symbol|Western Grass|7-10|clear=25%|type1=Bug|type2=Flying}}
+{{catch/entry8|582|Vanillite|yes|yes|Symbol|Western Grass|7-10|snow=25%|blizzard=25%|type1=Ice}}
+{{catch/entry8|674|Pancham|yes|yes|Symbol|Western Grass|7-10|60%|type1=Fighting}}
+{{catch/entry8|050|Diglett|yes|yes|Symbol|Dirt|8-10|clear=80%|cloudy=20%|rain=80%|thunderstorm=80%|snow=80%|blizzard=80%|sun=20%|sandstorm=20%|fog=80%|type1=Ground}}
+{{catch/entry8|524|Roggenrola|yes|yes|Symbol|Dirt|8-10|clear=20%|cloudy=80%|rain=20%|thunderstorm=20%|snow=20%|blizzard=20%|sun=80%|sandstorm=80%|fog=20%|type1=Rock}}
+{{catch/entry8|012|Butterfree|yes|yes|Symbol|Flying|7-10|clear=75%|cloudy=75%|rain=25%|thunderstorm=25%|snow=25%|blizzard=25%|sun=25%|sandstorm=25%|fog=75%|type1=Bug|type2=Flying}}
+{{catch/entry8|519|Pidove|yes|yes|Symbol|Flying|7-10|clear=25%|cloudy=25%|rain=75%|thunderstorm=75%|snow=75%|blizzard=75%|sun=75%|sandstorm=75%|fog=25%|type1=Normal|type2=Flying}}
+{{catch/entry8|095|Onix|yes|yes|Wanderer|West of the Meetup Spot entrance, dirt patch just west of the entrance|26|One|type1=Rock|type2=Ground}}
+{{catch/entry8|279|Pelipper|yes|yes|Wanderer|West of the Meetup Spot entrance, just west of the end of the path from the entrance, West of the Meetup Spot entrance, just west of the West Lake Axewell border, West of the Meetup Spot entrance, southwest of the field of grass next to the West Lake Axewell border|26|rain=Three|type1=Water|type2=Flying}}
+{{catch/entry8|281|Kirlia|yes|yes|Wanderer|West of the Meetup Spot entrance, just west of the end of the path from the entrance, West of the Meetup Spot entrance, just west of the West Lake Axewell border, West of the Meetup Spot entrance, southwest of the field of grass next to the West Lake Axewell border|26|fog=Three|type1=Psychic|type2=Fairy}}
+{{catch/entry8|310|Manectric|yes|yes|Wanderer|West of the Meetup Spot entrance, just west of the end of the path from the entrance, West of the Meetup Spot entrance, just west of the West Lake Axewell border, West of the Meetup Spot entrance, southwest of the field of grass next to the West Lake Axewell border|26|thunderstorm=Three|type1=Electric}}
+{{catch/entry8|416|Vespiquen|yes|yes|Wanderer|West of the Meetup Spot entrance, just west of the end of the path from the entrance, West of the Meetup Spot entrance, just west of the West Lake Axewell border, West of the Meetup Spot entrance, southwest of the field of grass next to the West Lake Axewell border|26|clear=Three|type1=Bug|type2=Flying}}
+{{catch/entry8|660|Diggersby|yes|yes|Wanderer|West of the Meetup Spot entrance, just west of the end of the path from the entrance, West of the Meetup Spot entrance, just west of the West Lake Axewell border, West of the Meetup Spot entrance, southwest of the field of grass next to the West Lake Axewell border|26|cloudy=Three|snow=Three|blizzard=Three|sun=Three|sandstorm=Three|type1=Normal|type2=Ground}}
+{{catch/entry8|291|Ninjask|yes|yes|Wanderer|West of the Meetup Spot entrance, just east of the West Lake Axewell border|15|One|type1=Bug|type2=Flying}}
+{{catch/entry8|025|Pikachu|yes|yes|Wanderer|West of the Meetup Spot entrance, in a cove of cliffs containing a Pokemon Den|15|thunderstorm=One|type1=Electric}}
+{{catch/entry8|315|Roselia|yes|yes|Wanderer|West of the Meetup Spot entrance, in a cove of cliffs containing a Pokemon Den|15|clear=One|cloudy=One|rain=One|snow=One|sun=One|sandstorm=One|fog=One|type1=Grass|type2=Poison}}
+{{catch/entry8|439|Mime Jr.|yes|yes|Wanderer|West of the Meetup Spot entrance, in a cove of cliffs containing a Pokemon Den|15|blizzard=One|type1=Psychic|type2=Fairy}}
+{{catch/entry8|221|Piloswine|yes|yes|Wanderer|West of the Meetup Spot entrance, on the path near the Dappled Grove border|33|snow=One|blizzard=One|type1=Ice|type2=Ground}}
+{{catch/entry8|282|Gardevoir|yes|yes|Wanderer|West of the Meetup Spot entrance, on the path near the Dappled Grove border|32|fog=One|type1=Psychic|type2=Fairy}}
+{{catch/entry8|558|Crustle|yes|yes|Wanderer|West of the Meetup Spot entrance, on the path near the Dappled Grove border|34|sandstorm=One|type1=Bug|type2=Rock}}
+{{catch/entry8|675|Pangoro|yes|yes|Wanderer|West of the Meetup Spot entrance, on the path near the Dappled Grove border|32|clear=One|cloudy=One|rain=One|thunderstorm=One|sun=One|type1=Fighting|type2=Dark}}
+{{catch/entry8|660|Diggersby|yes|yes|Wanderer|East of the Meetup Spot entrance, west of the field of grass encircling a Pokemon Den|15|One|type1=Normal|type2=Ground}}
+{{catch/entry8|093|Haunter|yes|yes|Wanderer|East of the Meetup Spot entrance, northwest of the field of grass encircling a Pokemon Den|31|rain=One|thunderstorm=One|type1=Ghost|type2=Poison}}
+{{catch/entry8|221|Piloswine|yes|yes|Wanderer|East of the Meetup Spot entrance, northwest of the field of grass encircling a Pokemon Den|33|snow=One|blizzard=One|type1=Ice|type2=Ground}}
+{{catch/entry8|750|Mudsdale|yes|yes|Wanderer|East of the Meetup Spot entrance, northwest of the field of grass encircling a Pokemon Den|31|clear=One|cloudy=One|sun=One|sandstorm=One|fog=One|type1=Ground}}
+{{catch/entry8|832|Dubwool|yes|yes|Wanderer|East of the Meetup Spot entrance, northeast of the field of grass encircling a Pokemon Den|65|One|type1=Normal}}

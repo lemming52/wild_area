@@ -1,0 +1,101 @@
+{{catch/entry8|025|Pikachu|yes|yes|Random|Grass|26-28|rain=10%|type1=Electric}}
+{{catch/entry8|111|Rhyhorn|no|yes|Random|Grass|26-28|sandstorm=20%|type1=Ground|type2=Rock}}
+{{catch/entry8|111|Rhyhorn|yes|no|Random|Grass|26-28|sandstorm=40%|type1=Ground|type2=Rock}}
+{{catch/entry8|176|Togetic|yes|yes|Random|Grass|26-28|fog=10%|type1=Fairy|type2=Flying}}
+{{catch/entry8|213|Shuckle|yes|yes|Random|Grass|26-28|sandstorm=10%|type1=Bug|type2=Rock}}
+{{catch/entry8|215|Sneasel|yes|yes|Random|Grass|26-28|snow=30%|blizzard=40%|type1=Dark|type2=Ice}}
+{{catch/entry8|339|Barboach|yes|yes|Random|Grass|26-28|rain=40%|type1=Water|type2=Ground}}
+{{catch/entry8|422E|Shellos|yes|yes|Random|Grass|26-28|rain=30%|type1=Water|form=East Sea}}
+{{catch/entry8|525|Boldore|no|yes|Random|Grass|26-28|thunderstorm=30%|snow=10%|sun=30%|sandstorm=40%|type1=Rock}}
+{{catch/entry8|525|Boldore|yes|no|Random|Grass|26-28|sandstorm=20%|type1=Rock}}
+{{catch/entry8|525|Boldore|no|yes|Random|Grass|27-29|clear=40%|type1=Rock}}
+{{catch/entry8|529|Drilbur|yes|yes|Random|Grass|26-28|sun=10%|sandstorm=30%|type1=Ground}}
+{{catch/entry8|533|Gurdurr|yes|no|Random|Grass|26-28|thunderstorm=30%|snow=10%|sun=30%|type1=Fighting}}
+{{catch/entry8|533|Gurdurr|yes|no|Random|Grass|27-29|clear=40%|type1=Fighting}}
+{{catch/entry8|546|Cottonee|yes|yes|Random|Grass|27-29|cloudy=40%|type1=Grass|type2=Fairy}}
+{{catch/entry8|613|Cubchoo|yes|yes|Random|Grass|26-28|snow=40%|blizzard=20%|type1=Ice}}
+{{catch/entry8|624|Pawniard|yes|yes|Random|Grass|26-28|blizzard=30%|type1=Dark|type2=Steel}}
+{{catch/entry8|682|Spritzee|no|yes|Random|Grass|27-29|cloudy=30%|type1=Fairy}}
+{{catch/entry8|684|Swirlix|yes|no|Random|Grass|27-29|cloudy=30%|type1=Fairy}}
+{{catch/entry8|743|Ribombee|yes|yes|Random|Grass|27-29|clear=30%|cloudy=20%|type1=Bug|type2=Fairy}}
+{{catch/entry8|825|Dottler|yes|yes|Random|Grass|26-28|fog=30%|type1=Bug|type2=Psychic}}
+{{catch/entry8|828|Thievul|yes|yes|Random|Grass|26-28|fog=40%|type1=Dark}}
+{{catch/entry8|830|Eldegoss|yes|yes|Random|Grass|27-29|clear=10%|type1=Grass}}
+{{catch/entry8|838|Carkol|yes|yes|Random|Grass|26-28|sun=40%|type1=Rock|type2=Fire}}
+{{catch/entry8|840|Applin|yes|yes|Random|Grass|26-28|thunderstorm=10%|type1=Grass|type2=Dragon}}
+{{catch/entry8|848|Toxel|yes|yes|Random|Grass|26-28|thunderstorm=40%|type1=Electric|type2=Poison}}
+{{catch/entry8|859|Impidimp|yes|yes|Random|Grass|26-28|rain=20%|thunderstorm=20%|snow=20%|blizzard=10%|sun=20%|fog=20%|type1=Dark|type2=Fairy}}
+{{catch/entry8|859|Impidimp|yes|yes|Random|Grass|27-29|clear=20%|cloudy=10%|type1=Dark|type2=Fairy}}
+{{catch/entry8|025|Pikachu|no|yes|Symbol|Northwest Grass|28-30|thunderstorm=5%|type1=Electric}}
+{{catch/entry8|025|Pikachu|yes|no|Symbol|Northwest Grass|28-30|thunderstorm=10%|type1=Electric}}
+{{catch/entry8|066|Machop|yes|yes|Symbol|Northwest Grass|28-30|clear=35%|cloudy=35%|type1=Fighting}}
+{{catch/entry8|215|Sneasel|yes|yes|Symbol|Northwest Grass|28-30|snow=15%|blizzard=50%|type1=Dark|type2=Ice}}
+{{catch/entry8|236|Tyrogue|yes|yes|Symbol|Northwest Grass|28-30|clear=15%|type1=Fighting}}
+{{catch/entry8|438|Bonsly|yes|yes|Symbol|Northwest Grass|28-30|sandstorm=50%|type1=Rock}}
+{{catch/entry8|453|Croagunk|no|yes|Symbol|Northwest Grass|28-30|cloudy=15%|type1=Poison|type2=Fighting}}
+{{catch/entry8|517|Munna|yes|yes|Symbol|Northwest Grass|28-30|fog=10%|type1=Psychic}}
+{{catch/entry8|556|Maractus|yes|yes|Symbol|Northwest Grass|28-30|sun=50%|type1=Grass}}
+{{catch/entry8|557|Dwebble|yes|yes|Symbol|Northwest Grass|28-30|sandstorm=15%|type1=Bug|type2=Rock}}
+{{catch/entry8|559|Scraggy|yes|no|Symbol|Northwest Grass|28-30|cloudy=15%|type1=Dark|type2=Fighting}}
+{{catch/entry8|597|Ferroseed|yes|yes|Symbol|Northwest Grass|28-30|blizzard=5%|type1=Grass|type2=Steel}}
+{{catch/entry8|613|Cubchoo|yes|yes|Symbol|Northwest Grass|28-30|snow=50%|blizzard=10%|type1=Ice}}
+{{catch/entry8|751|Dewpider|no|yes|Symbol|Northwest Grass|28-30|rain=35%|thunderstorm=50%|type1=Water|type2=Bug}}
+{{catch/entry8|751|Dewpider|yes|no|Symbol|Northwest Grass|28-30|rain=35%|thunderstorm=45%|type1=Water|type2=Bug}}
+{{catch/entry8|757|Salandit|no|yes|Symbol|Northwest Grass|28-30|sun=15%|type1=Poison|type2=Fire}}
+{{catch/entry8|757|Salandit|yes|no|Symbol|Northwest Grass|28-30|sun=5%|type1=Poison|type2=Fire}}
+{{catch/entry8|761|Bounsweet|yes|no|Symbol|Northwest Grass|28-30|clear=50%|cloudy=50%|rain=60%|thunderstorm=35%|snow=35%|blizzard=35%|sandstorm=35%|sun=45%|fog=35%|type1=Grass}}
+{{catch/entry8|761|Bounsweet|no|yes|Symbol|Northwest Grass|28-30|clear=50%|cloudy=50%|rain=60%|thunderstorm=35%|snow=35%|blizzard=35%|sandstorm=35%|sun=35%|fog=35%|type1=Grass}}
+{{catch/entry8|827|Nickit|yes|yes|Symbol|Northwest Grass|28-30|fog=5%|type1=Dark}}
+{{catch/entry8|845|Cramorant|yes|yes|Symbol|Northwest Grass|28-30|rain=5%|type1=Flying|type2=Water}}
+{{catch/entry8|848|Toxel|yes|yes|Symbol|Northwest Grass|28-30|thunderstorm=10%|type1=Electric|type2=Poison}}
+{{catch/entry8|856|Hatenna|yes|yes|Symbol|Northwest Grass|28-30|fog=50%|type1=Psychic}}
+{{catch/entry8|025|Pikachu|yes|yes|Symbol|Grass|28-30|thunderstorm=5%|type1=Electric}}
+{{catch/entry8|067|Machoke|yes|yes|Symbol|Grass|28-30|cloudy=35%|type1=Fighting}}
+{{catch/entry8|215|Sneasel|yes|yes|Symbol|Grass|28-30|snow=15%|blizzard=35%|type1=Dark|type2=Ice}}
+{{catch/entry8|236|Tyrogue|yes|yes|Symbol|Grass|28-30|clear=15%|type1=Fighting}}
+{{catch/entry8|263|Zigzagoon|yes|yes|Symbol|Grass|28-30|clear=35%|cloudy=15%|rain=10%|snow=30%|blizzard=10%|sun=30%|sandstorm=30%|fog=10%|type1=Dark|type2=Normal|form=Galarian Form}}
+{{catch/entry8|291|Ninjask|yes|yes|Symbol|Grass|28-30|clear=30%|rain=35%|type1=Bug|type2=Flying}}
+{{catch/entry8|343|Baltoy|yes|no|Symbol|Grass|28-30|10%|type1=Ground|type2=Psychic}}
+{{catch/entry8|343|Baltoy|no|yes|Symbol|Grass|28-30|clear=10%|cloudy=10%|sun=10%|sandstorm=10%|type1=Ground|type2=Psychic}}
+{{catch/entry8|436|Bronzor|no|yes|Symbol|Grass|28-30|rain=10%|thunderstorm=10%|snow=10%|blizzard=10%|fog=10%|type1=Steel|type2=Psychic}}
+{{catch/entry8|438|Bonsly|yes|yes|Symbol|Grass|28-30|sandstorm=35%|type1=Rock}}
+{{catch/entry8|453|Croagunk|no|yes|Symbol|Grass|28-30|cloudy=30%|type1=Poison|type2=Fighting}}
+{{catch/entry8|517|Munna|yes|yes|Symbol|Grass|28-30|fog=30%|type1=Psychic}}
+{{catch/entry8|556|Maractus|yes|yes|Symbol|Grass|28-30|sun=35%|type1=Grass}}
+{{catch/entry8|557|Dwebble|yes|yes|Symbol|Grass|28-30|sandstorm=15%|type1=Bug|type2=Rock}}
+{{catch/entry8|559|Scraggy|yes|no|Symbol|Grass|28-30|cloudy=30%|type1=Dark|type2=Fighting}}
+{{catch/entry8|597|Ferroseed|yes|yes|Symbol|Grass|28-30|blizzard=5%|type1=Grass|type2=Steel}}
+{{catch/entry8|613|Cubchoo|yes|yes|Symbol|Grass|28-30|snow=35%|blizzard=30%|type1=Ice}}
+{{catch/entry8|622|Golett|yes|yes|Symbol|Grass|28-30|10%|type1=Ground|type2=Ghost}}
+{{catch/entry8|751|Dewpider|yes|yes|Symbol|Grass|28-30|rain=30%|thunderstorm=30%|type1=Water|type2=Bug}}
+{{catch/entry8|757|Salandit|yes|yes|Symbol|Grass|28-30|sun=15%|type1=Poison|type2=Fire}}
+{{catch/entry8|827|Nickit|yes|yes|Symbol|Grass|28-30|fog=5%|type1=Dark}}
+{{catch/entry8|835|Yamper|yes|yes|Symbol|Grass|28-30|thunderstorm=35%|type1=Electric}}
+{{catch/entry8|845|Cramorant|yes|yes|Symbol|Grass|28-30|rain=5%|type1=Flying|type2=Water}}
+{{catch/entry8|848|Toxel|yes|yes|Symbol|Grass|28-30|thunderstorm=10%|type1=Electric|type2=Poison}}
+{{catch/entry8|856|Hatenna|yes|yes|Symbol|Grass|28-30|fog=35%|type1=Psychic}}
+{{catch/entry8|025|Pikachu|yes|yes|Symbol|Brown grass|28-30|thunderstorm=5%|type1=Electric}}
+{{catch/entry8|067|Machoke|yes|yes|Symbol|Brown grass|28-30|cloudy=45%|type1=Fighting}}
+{{catch/entry8|215|Sneasel|yes|yes|Symbol|Brown grass|28-30|snow=15%|blizzard=45%|type1=Dark|type2=Ice}}
+{{catch/entry8|236|Tyrogue|yes|yes|Symbol|Brown grass|28-30|clear=15%|type1=Fighting}}
+{{catch/entry8|291|Ninjask|yes|yes|Symbol|Brown grass|28-30|clear=35%|rain=15%|type1=Bug|type2=Flying}}
+{{catch/entry8|438|Bonsly|yes|yes|Symbol|Brown grass|28-30|sandstorm=45%|type1=Rock}}
+{{catch/entry8|454|Toxicroak|no|yes|Symbol|Brown grass|28-30|cloudy=35%|type1=Poison|type2=Fighting}}
+{{catch/entry8|517|Munna|yes|yes|Symbol|Brown grass|28-30|fog=35%|type1=Psychic}}
+{{catch/entry8|524|Roggenrola|yes|no|Symbol|Brown grass|28-30|sun=15%|sandstorm=15%|type1=Rock}}
+{{catch/entry8|524|Roggenrola|no|yes|Symbol|Brown grass|28-30|sandstorm=15%|type1=Rock}}
+{{catch/entry8|556|Maractus|yes|yes|Symbol|Brown grass|28-30|sun=45%|type1=Grass}}
+{{catch/entry8|557|Dwebble|yes|yes|Symbol|Brown grass|28-30|clear=45%|cloudy=15%|rain=35%|snow=35%|blizzard=10%|sun=35%|sandstorm=35%|fog=10%|type1=Bug|type2=Rock}}
+{{catch/entry8|559|Scraggy|yes|no|Symbol|Brown grass|28-30|cloudy=35%|type1=Dark|type2=Fighting}}
+{{catch/entry8|597|Ferroseed|yes|yes|Symbol|Brown grass|28-30|blizzard=5%|type1=Grass|type2=Steel}}
+{{catch/entry8|613|Cubchoo|yes|yes|Symbol|Brown grass|28-30|snow=45%|blizzard=35%|type1=Ice}}
+{{catch/entry8|627|Rufflet|yes|no|Symbol|Brown grass|28-30|5%|type1=Normal|type2=Flying}}
+{{catch/entry8|629|Vullaby|no|yes|Symbol|Brown grass|28-30|5%|type1=Dark|type2=Flying}}
+{{catch/entry8|751|Dewpider|yes|yes|Symbol|Brown grass|28-30|rain=45%|thunderstorm=35%|type1=Water|type2=Bug}}
+{{catch/entry8|757|Salandit|no|yes|Symbol|Brown grass|28-30|sun=15%|type1=Poison|type2=Fire}}
+{{catch/entry8|827|Nickit|yes|yes|Symbol|Brown grass|28-30|fog=5%|type1=Dark}}
+{{catch/entry8|835|Yamper|yes|yes|Symbol|Brown grass|28-30|thunderstorm=45%|type1=Electric}}
+{{catch/entry8|848|Toxel|yes|yes|Symbol|Brown grass|28-30|thunderstorm=10%|type1=Electric|type2=Poison}}
+{{catch/entry8|856|Hatenna|yes|yes|Symbol|Brown grass|28-30|fog=45%|type1=Psychic}}
+{{catch/entry8|520|Tranquill|yes|yes|Symbol|Flying|28-30|clear=60%|cloudy=60%|rain=60%|thunderstorm=60%|snow=60%|blizzard=60%|sun=40%|sandstorm=40%|fog=40%|type1=Normal|type2=Flying}}
+{{catch/entry8|561|Sigilyph|yes|yes|Symbol|Flying|28-30|clear=40%|cloudy=40%|rain=40%|thunderstorm=40%|snow=40%|blizzard=40%|sun=60%|sandstorm=60%|fog=60%|type1=Psychic|type2=Flying}}

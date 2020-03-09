@@ -1,0 +1,56 @@
+{{catch/entry8|037|Vulpix|yes|no|Random|Grass|8-12|sun=30%|type1=Fire}}
+{{catch/entry8|043|Oddish|yes|yes|Random|Grass|8-12|clear=45%|cloudy=30%|rain=20%|thunderstorm=20%|type1=Grass|type2=Poison}}
+{{catch/entry8|058|Growlithe|no|yes|Random|Grass|8-12|sun=30%|type1=Fire}}
+{{catch/entry8|095|Onix|yes|yes|Random|Grass|8-12|sun=10%|sandstorm=10%|type1=Rock|type2=Ground}}
+{{catch/entry8|278|Wingull|yes|yes|Random|Grass|8-12|rain=45%|type1=Water|type2=Flying}}
+{{catch/entry8|309|Electrike|yes|yes|Random|Grass|8-12|thunderstorm=30%|type1=Electric}}
+{{catch/entry8|343|Baltoy|yes|yes|Random|Grass|8-12|sandstorm=30%|type1=Ground|type2=Psychic}}
+{{catch/entry8|361|Snorunt|yes|yes|Random|Grass|8-12|snow=45%|type1=Ice}}
+{{catch/entry8|406|Budew|yes|yes|Random|Grass|8-12|cloudy=45%|type1=Grass|type2=Poison}}
+{{catch/entry8|459|Snover|yes|yes|Random|Grass|8-12|snow=30%|blizzard=30%|type1=Grass|type2=Ice}}
+{{catch/entry8|509|Purrloin|yes|yes|Random|Grass|8-12|fog=45%|type1=Dark}}
+{{catch/entry8|517|Munna|yes|yes|Random|Grass|8-12|fog=30%|type1=Psychic}}
+{{catch/entry8|519|Pidove|yes|yes|Random|Grass|8-12|clear=20%|type1=Normal|type2=Flying}}
+{{catch/entry8|557|Dwebble|yes|yes|Random|Grass|8-12|sandstorm=40%|type1=Bug|type2=Rock}}
+{{catch/entry8|572|Minccino|yes|yes|Random|Grass|8-12|cloudy=20%|snow=20%|blizzard=20%|sun=15%|sandstorm=15%|fog=20%|type1=Normal}}
+{{catch/entry8|582|Vanillite|yes|yes|Random|Grass|8-12|blizzard=45%|type1=Ice}}
+{{catch/entry8|595|Joltik|yes|yes|Random|Grass|8-12|thunderstorm=45%|type1=Bug|type2=Electric}}
+{{catch/entry8|659|Bunnelby|yes|yes|Random|Grass|8-12|clear=30%|type1=Normal}}
+{{catch/entry8|736|Grubbin|yes|yes|Random|Grass|8-12|rain=30%|type1=Bug}}
+{{catch/entry8|749|Mudbray|yes|yes|Random|Grass|8-12|sun=40%|type1=Ground}}
+{{catch/entry8|759|Stufful|yes|yes|Random|Grass|8-12|5%|type1=Normal|type2=Fighting}}
+{{catch/entry8|090|Shellder|yes|yes|Random|Fishing|8-12|20%|type1=Water}}
+{{catch/entry8|118|Goldeen|yes|yes|Random|Fishing|8-12|25%|type1=Water}}
+{{catch/entry8|129|Magikarp|yes|yes|Random|Fishing|8-12|50%|type1=Water}}
+{{catch/entry8|746|Wishiwashi|yes|yes|Random|Fishing|8-12|5%|type1=Water}}
+{{catch/entry8|037|Vulpix|yes|no|Symbol|Grass|10-15|sun=25%|type1=Fire}}
+{{catch/entry8|043|Oddish|yes|yes|Symbol|Grass|10-15|clear=35%|cloudy=15%|thunderstorm=10%|fog=15%|type1=Grass|type2=Poison}}
+{{catch/entry8|058|Growlithe|no|yes|Symbol|Grass|10-15|sun=25%|type1=Fire}}
+{{catch/entry8|278|Wingull|yes|yes|Symbol|Grass|10-15|rain=50%|type1=Water|type2=Flying}}
+{{catch/entry8|309|Electrike|yes|yes|Symbol|Grass|10-15|thunderstorm=60%|type1=Electric}}
+{{catch/entry8|343|Baltoy|yes|yes|Symbol|Grass|10-15|sandstorm=60%|type1=Ground|type2=Psychic}}
+{{catch/entry8|361|Snorunt|yes|yes|Symbol|Grass|10-15|snow=5%|blizzard=60%|type1=Ice}}
+{{catch/entry8|459|Snover|yes|yes|Symbol|Grass|10-15|snow=60%|type1=Grass|type2=Ice}}
+{{catch/entry8|517|Munna|yes|yes|Symbol|Grass|10-15|fog=60%|type1=Psychic}}
+{{catch/entry8|674|Pancham|yes|yes|Symbol|Grass|10-15|cloudy=35%|thunderstorm=5%|snow=10%|blizzard=15%|sun=5%|sandstorm=5%|type1=Fighting}}
+{{catch/entry8|736|Grubbin|yes|yes|Symbol|Grass|10-15|rain=15%|type1=Bug}}
+{{catch/entry8|749|Mudbray|yes|yes|Symbol|Grass|10-15|sun=60%|sandstorm=25%|type1=Ground}}
+{{catch/entry8|759|Stufful|yes|yes|Symbol|Grass|10-15|clear=50%|cloudy=50%|rain=35%|thunderstorm=25%|snow=25%|blizzard=25%|sun=10%|sandstorm=10%|fog=25%|type1=Normal|type2=Fighting}}
+{{catch/entry8|761|Bounsweet|yes|yes|Symbol|Grass|10-15|clear=15%|type1=Grass}}
+{{catch/entry8|012|Butterfree|yes|yes|Symbol|Flying West Side|12-15|30%|type1=Bug|type2=Flying}}
+{{catch/entry8|519|Pidove|yes|yes|Symbol|Flying West Side|12-15|70%|type1=Normal|type2=Flying}}
+{{catch/entry8|012|Butterfree|yes|yes|Symbol|Flying|8-11|clear=75%|cloudy=25%|rain=75%|thunderstorm=75%|snow=75%|blizzard=75%|sun=75%|sandstorm=75%|fog=25%|type1=Bug|type2=Flying}}
+{{catch/entry8|519|Pidove|yes|yes|Symbol|Flying|8-11|clear=25%|cloudy=75%|rain=25%|thunderstorm=25%|snow=25%|blizzard=25%|sun=25%|sandstorm=25%|fog=75%|type1=Normal|type2=Flying}}
+{{catch/entry8|090|Shellder|yes|yes|Symbol|Surf|40-43|clear=15%|cloudy=15%|rain=45%|thunderstorm=10%|snow=20%|blizzard=5%|sun=10%|sandstorm=30%|fog=5%|type1=Water}}
+{{catch/entry8|118|Goldeen|yes|yes|Symbol|Surf|40-43|clear=5%|cloudy=25%|rain=15%|thunderstorm=5%|blizzard=15%|sun=5%|sandstorm=55%|fog=10%|type1=Water}}
+{{catch/entry8|170|Chinchou|yes|yes|Symbol|Surf|40-43|thunderstorm=70%|type1=Water|type2=Electric}}
+{{catch/entry8|278|Wingull|yes|yes|Symbol|Surf|40-43|clear=55%|cloudy=5%|rain=5%|thunderstorm=15%|snow=10%|blizzard=5%|sun=70%|sandstorm=5%|fog=25%|type1=Water|type2=Flying}}
+{{catch/entry8|582|Vanillite|yes|yes|Symbol|Surf|40-43|snow=40%|blizzard=75%|type1=Ice}}
+{{catch/entry8|592|Frillish|yes|yes|Symbol|Surf|40-43|clear=25%|cloudy=55%|rain=35%|snow=30%|sun=15%|sandstorm=10%|fog=60%|type1=Water|type2=Ghost}}
+{{catch/entry8|178|Xatu|yes|yes|Wanderer|Flying near the Rolling Hills border|26|clear=One|cloudy=One|snow=One|blizzard=One|sun=One|sandstorm=One|fog=One|type1=Psychic|type2=Flying}}
+{{catch/entry8|279|Pelipper|yes|yes|Wanderer|Flying near the Rolling Hills border|26|rain=One|thunderstorm=One|type1=Water|type2=Flying}}
+{{catch/entry8|221|Piloswine|yes|yes|Wanderer|On the path near the North Lake Miloch border|36|snow=One|blizzard=One|type1=Ice|type2=Ground}}
+{{catch/entry8|437|Bronzong|yes|yes|Wanderer|On the path near the North Lake Miloch border|36|fog=One|type1=Ice|type2=Ground}}
+{{catch/entry8|569|Garbodor|yes|yes|Wanderer|On the path near the North Lake Miloch border|36|clear=One|cloudy=One|rain=One|thunderstorm=One|type1=Poison}}
+{{catch/entry8|750|Mudsdale|yes|yes|Wanderer|On the path near the North Lake Miloch border|36|sun=One|sandstorm=One|type1=Ground}}
+{{catch/entry8|110G|Weezing|yes|yes|Wanderer||65|One|type1=Poison|type2=Fairy|form=Galarian Form}}

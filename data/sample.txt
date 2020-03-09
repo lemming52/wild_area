@@ -1,0 +1,258 @@
+Nest ID: 1676046420423018998
+	2-Star Tyrogue
+		Lv. 25-30
+		Gender: Random
+		Ability: Hidden
+		Selection Probabilities:
+			1-Star Desired: 35%
+		Drops:
+			100% TR21 Reversal
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 25% Nugget
+			 25% Rare Bone
+			 25% Rare Candy
+		Bonus Drops:
+			  5% Exp. Candy S
+			  1% Dynamax Candy
+			  1% Exp. Candy M
+	
+	2-Star Machop
+		Lv. 25-30
+		Gender: Random
+		Ability: Hidden
+		Selection Probabilities:
+			1-Star Desired: 35%
+		Drops:
+			100% TR21 Reversal
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 25% Nugget
+			 25% Rare Bone
+			 25% Rare Candy
+		Bonus Drops:
+			  5% Exp. Candy S
+			  1% Dynamax Candy
+			  1% Exp. Candy M
+	
+	2-Star Timburr
+		Lv. 25-30
+		Gender: Random
+		Ability: Hidden
+		Selection Probabilities:
+			1-Star Desired: 20%
+			2-Star Desired: 30%
+		Drops:
+			100% TR21 Reversal
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 25% Nugget
+			 25% Rare Bone
+			 25% Rare Candy
+		Bonus Drops:
+			  5% Exp. Candy S
+			  1% Dynamax Candy
+			  1% Exp. Candy M
+	
+	2-Star Croagunk
+		Lv. 25-30
+		Gender: Random
+		Ability: Hidden
+		Selection Probabilities:
+			1-Star Desired: 10%
+			2-Star Desired: 30%
+		Drops:
+			100% TR21 Reversal
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 25% Nugget
+			 25% Rare Bone
+			 25% Rare Candy
+		Bonus Drops:
+			  5% Exp. Candy S
+			  1% Dynamax Candy
+			  1% Exp. Candy M
+	
+	3-Star Gurdurr
+		Lv. 35-40
+		Gender: Random
+		Ability: Hidden
+		Selection Probabilities:
+			2-Star Desired: 20%
+			3-Star Desired: 10%
+		Drops:
+			100% TR21 Reversal
+			100% TR39 Superpower
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 30% Nugget
+			 30% Rare Bone
+			 25% Rare Candy
+			  1% Bottle Cap
+		Bonus Drops:
+			  5% Exp. Candy M
+			  1% Dynamax Candy
+			  1% Exp. Candy L
+	
+	3-Star Machoke
+		Lv. 35-40
+		Gender: Random
+		Ability: Hidden
+		Selection Probabilities:
+			2-Star Desired: 20%
+			3-Star Desired: 30%
+		Drops:
+			100% TR21 Reversal
+			100% TR39 Superpower
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 30% Nugget
+			 30% Rare Bone
+			 25% Rare Candy
+			  1% Bottle Cap
+		Bonus Drops:
+			  5% Exp. Candy M
+			  1% Dynamax Candy
+			  1% Exp. Candy L
+	
+	4-Star Hitmonchan
+		Lv. 45-50
+		Gender: Random
+		Ability: Hidden
+		Selection Probabilities:
+			3-Star Desired: 20%
+			4-Star Desired: 25%
+		Drops:
+			100% TR39 Superpower
+			100% TR53 Close Combat
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 35% Nugget
+			 35% Rare Bone
+			 25% Rare Candy
+			  2% Bottle Cap
+		Bonus Drops:
+			  3% Exp. Candy L
+			  2% Exp. Candy M
+			  1% Dynamax Candy
+	
+	5-Star Hitmonlee
+		Lv. 55-60
+		Gender: Random
+		Ability: Hidden
+		Selection Probabilities:
+			3-Star Desired: 20%
+			4-Star Desired: 25%
+			5-Star Desired: 30%
+		Drops:
+			100% TR21 Reversal
+			100% TR39 Superpower
+			100% TR53 Close Combat
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 50% Nugget
+			 50% Rare Bone
+			 25% Rare Candy
+			  3% Bottle Cap
+		Bonus Drops:
+			  2% Dynamax Candy
+			  2% Exp. Candy L
+			  1% Exp. Candy XL
+	
+	5-Star Toxicroak
+		Lv. 55-60
+		Gender: Random
+		Ability: Hidden
+		Selection Probabilities:
+			3-Star Desired: 20%
+			4-Star Desired: 25%
+			5-Star Desired: 30%
+		Drops:
+			100% TR21 Reversal
+			100% TR39 Superpower
+			100% TR53 Close Combat
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 50% Nugget
+			 50% Rare Bone
+			 25% Rare Candy
+			  3% Bottle Cap
+		Bonus Drops:
+			  2% Dynamax Candy
+			  2% Exp. Candy L
+			  1% Exp. Candy XL
+	
+	5-Star Hitmontop
+		Lv. 55-60
+		Gender: Random
+		Ability: Any
+		Selection Probabilities:
+			4-Star Desired: 25%
+			5-Star Desired: 20%
+		Drops:
+			100% TR21 Reversal
+			100% TR39 Superpower
+			100% TR53 Close Combat
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 50% Nugget
+			 50% Rare Bone
+			 25% Rare Candy
+			  3% Bottle Cap
+		Bonus Drops:
+			  2% Dynamax Candy
+			  2% Exp. Candy L
+			  1% Exp. Candy XL
+	
+	5-Star Machamp
+		Lv. 55-60
+		Gender: Random
+		Ability: Any
+		Selection Probabilities:
+			5-Star Desired: 10%
+		Drops:
+			100% TR21 Reversal
+			100% TR39 Superpower
+			100% TR53 Close Combat
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 50% Nugget
+			 50% Rare Bone
+			 25% Rare Candy
+			  3% Bottle Cap
+		Bonus Drops:
+			  2% Dynamax Candy
+			  2% Exp. Candy L
+			  1% Exp. Candy XL
+	
+	5-Star Conkeldurr
+		Lv. 55-60
+		Gender: Random
+		Ability: Any
+		Selection Probabilities:
+			5-Star Desired: 10%
+		Drops:
+			100% TR21 Reversal
+			100% TR39 Superpower
+			100% TR53 Close Combat
+			100% TR56 Aura Sphere
+			 80% Kelpsy Berry
+			 80% Sitrus Berry
+			 50% Nugget
+			 50% Rare Bone
+			 25% Rare Candy
+			  3% Bottle Cap
+		Bonus Drops:
+			  2% Dynamax Candy
+			  2% Exp. Candy L
+			  1% Exp. Candy XL
+	
