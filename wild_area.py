@@ -54,7 +54,7 @@ class Habitat():
             return False
         if self.region != region:
             return False
-        return self.weather == weather:
+        return self.weather == weather
 
 
 class Pokemon():
@@ -140,23 +140,23 @@ def main() -> None:
                             if shield:
                                 pokemon.add_habitat(Habitat(SHIELD, region, weather, encounter, environment, entry))
     regions = [
-        ["rolling_fields", "rain"],
-        ["dappled_grove", "thunderstorm"],
-        ["watchtower_ruins", "snow"],
-        ["east_lake_axewell", "fog"],
-        ["west_lake_axewell", "snow"],
+        ["rolling_fields", "sun"],
+        ["dappled_grove", "clear"],
+        ["watchtower_ruins", "cloud"],
+        ["east_lake_axewell", "sun"],
+        ["west_lake_axewell", "cloud"],
         ["axews_eye", "fog"],
         ["south_lake_miloch", "cloudy"],
-        ["north_lake_miloch", "sandstorm"],
-        ["giants_seat", "snow"],
-        ["motostoke_riverbank", "rain"],
-        ["bridge_field", "clear"],
-        ["stony_wilderness", "cloudy"],
-        ["giants_cap", "fog"],
-        ["giants_mirror", "snow"],
-        ["dusty_bowl", "clear"],
-        ["hammerlocke_hills", "thunderstorm"],
-        ["lake_of_outrage", "snow"]
+        ["north_lake_miloch", "sun"],
+        ["giants_seat", "clear"],
+        ["motostoke_riverbank", "snow"],
+        ["bridge_field", "fog"],
+        ["stony_wilderness", "fog"],
+        ["giants_cap", "clear"],
+        ["giants_mirror", "fog"],
+        ["dusty_bowl", "sun"],
+        ["hammerlocke_hills", "rain"],
+        ["lake_of_outrage", "sun"]
     ]
     for name, pokemon in all_pokemon.items():
         pokemon.print_multiple_habitats(SHIELD, regions)
